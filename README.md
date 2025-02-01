@@ -6,7 +6,7 @@ This GitHub account is managed by two developers and serves as the official bran
 
 ## 👨‍💻 Developers
 
-### 🔹 <img src="https://github.com/user-attachments/assets/f97aed0e-0082-4eae-a366-8586a6413acb" width="50" height="50" style="border-radius: 50%; vertical-align: middle;"> Parminder Singh
+### 🔹 <img src="https://github.com/user-attachments/assets/f97aed0e-0082-4eae-a366-8586a6413acb" width="50" height="50" style="border-radius: 100%; vertical-align: middle;"> Parminder Singh
 - **Role:** Frontend App & Web Developer
 - **Skills:**
   - **Frontend:** React Native, React.js, Tailwind CSS
