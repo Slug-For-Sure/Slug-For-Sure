@@ -1,4 +1,4 @@
-# 🎉 Welcome to SLUG GitHub Account 🚀
+# 🎉 Welcome to [Your Brand Name] GitHub Account 🚀
 
 ![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Our+GitHub+Account)
 
@@ -6,8 +6,7 @@ This GitHub account is managed by two developers and serves as the official bran
 
 ## 👨‍💻 Developers
 
-### 🔹 Parminder Singh
-![Parminder Singh Avatar](https://via.placeholder.com/100)
+### 🔹 <img src="https://github.com/user-attachments/assets/f97aed0e-0082-4eae-a366-8586a6413acb" width="50" height="50" style="border-radius: 50%; vertical-align: middle;"> Parminder Singh
 - **Role:** Frontend App & Web Developer
 - **Skills:**
   - **Frontend:** React Native, React.js, Tailwind CSS
@@ -18,8 +17,7 @@ This GitHub account is managed by two developers and serves as the official bran
 - **GitHub:** [GitHub Profile](https://github.com/360Parminder)
 - **Email:** 📧 360.parminder@gmail.com
 
-### 🔹 Ankit Yadav
-![Ankit Yadav Avatar](https://via.placeholder.com/100)
+### 🔹 <img src="https://via.placeholder.com/100" width="50" height="50" style="border-radius: 50%; vertical-align: middle;"> Ankit Yadav
 - **Role:** Backend Developer
 - **Skills:**
   - **Backend:** Node.js
