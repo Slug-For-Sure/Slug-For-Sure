@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Slug-For-Sure
-- 👀 I’m interested in Projects
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🎉 Welcome to [Your Brand Name] GitHub Account 🚀
 
-<!---
-Slug-For-Sure/Slug-For-Sure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Our+GitHub+Account)
+
+This GitHub account is managed by two developers and serves as the official brand account for projects developed by them. Here, you will find repositories related to our ongoing and completed projects. For any project-related inquiries, feel free to contact the developers. 💡
+
+## 👨‍💻 Developers
+
+### 🔹 Parminder Singh
+![Parminder Singh Avatar](https://github.com/user-attachments/assets/f97aed0e-0082-4eae-a366-8586a6413acb)
+- **Role:** Frontend App & Web Developer
+- **Skills:**
+  - **Frontend:** React Native, React.js, Tailwind CSS
+  - **Backend:** Node.js, AWS
+  - **Database:** MongoDB, PostgreSQL
+  - **ORM:** Prisma
+  - **Other:** Cloud Services, API Development
+- **GitHub:** [GitHub Profile](https://github.com/360Parminder)
+- **Email:** 📧 360.parminder@gmail.com
+
+### 🔹 Ankit Yadav
+![Ankit Yadav Avatar](https://via.placeholder.com/100)
+- **Role:** Backend Developer
+- **Skills:**
+  - **Backend:** Node.js
+  - **Database:** MongoDB
+  - **Programming Languages:** C++
+  - **Frameworks:** Next.js
+- **GitHub:** [GitHub Profile](https://github.com/BearerOP)
+- **Email:** 📧 work.ankit189@gmail.com
+
+---
+📩 For further details or collaboration inquiries, please reach out to the developers via email. Let's build something amazing together! 🚀
+
