@@ -1,4 +1,4 @@
-# 🎉 Welcome to [Your Brand Name] GitHub Account 🚀
+# 🎉 Welcome to SLUG GitHub Account 🚀
 
 ![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Our+GitHub+Account)
 
