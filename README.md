@@ -1,4 +1,4 @@
-# 🎉 Welcome to [Your Brand Name] GitHub Account 🚀
+# 🎉 Welcome to SLUG GitHub Account 🚀
 
 ![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Our+GitHub+Account)
 
@@ -7,7 +7,7 @@ This GitHub account is managed by two developers and serves as the official bran
 ## 👨‍💻 Developers
 
 ### 🔹 Parminder Singh
-![Parminder Singh Avatar](https://github.com/user-attachments/assets/f97aed0e-0082-4eae-a366-8586a6413acb)
+![Parminder Singh Avatar](https://via.placeholder.com/100)
 - **Role:** Frontend App & Web Developer
 - **Skills:**
   - **Frontend:** React Native, React.js, Tailwind CSS
